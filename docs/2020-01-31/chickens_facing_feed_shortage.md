@@ -16,7 +16,7 @@ SARS-CoV-2 (formerly known as 2019 novel coronavirus, 2019-nCoV) sweep
 across the Internet, attention shall also be paid to the winding roads
 in the farm fields, and this is a part of ensuring a functioning social
 system. **The most intuitive connection is that, such winding roads
-influence the stability and order of \"shopping basket program\"
+are critical to the stability and order of the \"shopping basket program\"
 (non-staple food supply project). Only when the non-staple food is
 produced, transported, and supplied, can the functioning of the
 grassroots society be maintained to the greatest extent in the current
@@ -71,14 +71,14 @@ shops and breakfast stalls are all closed. \"
 
 <p align="center"><img src="./imgs/image7.png" /></p>
 
-**Rational road-blocking can cut off the spread of the novel
+**Rational road-blocking can cut off the spread of 
 SARS-CoV-2, but roads at some places have been rudely dug up, which
 have hindered agricultural production.** Zhou Ping said, \"Under
 normal circumstances, in order to celebrate the Spring Festival,
 chicken farmers will reserve feed that may last for a period from the
 24th of the last month of previous lunar year to the 10th of the first
 month of this lunar year. On 28th or 29th of last lunar month, we just
-heard about the SARS-CoV-2 in Wuhan, and roads were suddenly blocked
+heard about the epidemic in Wuhan, and roads were suddenly blocked
 on the first day of the lunar new year. No one has prepared feed for
 this special situation in advance. \"**The village where Zhou Ping
 lives is 10 kilometers from the county, and it is much closer to the
@@ -88,7 +88,7 @@ some feed, neither could other feed transportation vehicles get in. If
 road blocking continues, the losses will be huge.** Although Zhou Ping
 does not know the exact figure of chickens raised in the surrounding
 area, it is a huge number based on the calculation of the feed daily
-consumption.\'\'10,000 chickens eat 6 packs of feed every day, and I
+consumption.\"10,000 chickens eat 6 packs of feed every day, and I
 usually deliver 1,600 tons of feed to the surrounding chicken farmers
 each month. There are a dozen drivers like me around our county doing
 the same thing.\" said Zhou Ping.
@@ -111,7 +111,7 @@ shortage of feed supply and sales may give rise to a new epidemic
 outbreak, and only with a guaranteed feed supply and logistics system
 shall such outbreak be prevented. We should not make things worse.**
 
-## SARS-CoV-2us prevention in rural areas
+## SARS-CoV-2 prevention in rural areas
 
 As the SARS-CoV-2 spreads, such road-blocking measures have been
 scaled up beyond Hubei Province. Funan is the most populous county in
@@ -165,7 +165,7 @@ fragile.** As of the end of 2018, there were still 46 townships across
 the nation without health centers, 666 health centers without general
 practitioners or licensed (assistant) physicians, 1022 administrative
 villages without clinics, and 6903 clinics without qualified village
-doctors. **The Henan village doctor interviewed by this Magazine took
+doctors. **A Henan village doctor interviewed by this Magazine took
 temperature of quarantined villagers twice a day without any
 protection, and the villagers neither, who did not wear a mask when
 they saw a doctor. The doctor\'s daughter works in a big city, and the
@@ -240,7 +240,7 @@ no chicken farmers of his acquaintance have sold any eggs . \"
 **Old customers in Hunan do not accept eggs from Hubei Xiantao, and
 sales within Hubei province are also hampered.** Li Qiang said, \"the
 road to my chicken farm outside the village was blocked, the workers
-couldn\'t come to work, and the eggs couldn\'t be sent out.\'\' Even
+couldn\'t come to work, and the eggs couldn\'t be sent out.\" Even
 if the eggs can be transported out of the village, a pass is required
 to get on the expressway. However, in order to ensure transportation
 of medical and aid supplies, the pass is now issued only to rescue
@@ -261,7 +261,7 @@ Anhui Province specializes in the distribution of raw materials for a
 fast food chain. His last order before the Spring Festival was to
 deliver raw materials to Beijing on January 19, and then he drove back
 to his hometown in Anhui to celebrate the Lunar New Year. As the novel
-SARS-CoV-2 pneumonia spreaded throughout the country, Driver Yuan
+coronavirus pneumonia spreaded throughout the country, Driver Yuan
 said, **\"Our village was locked down on the second day of the lunar
 new year, no one is allowed to enter the village, neither are the
 villagers allowed to go out.** I don't usually live in the village,
@@ -281,8 +281,8 @@ transportation vehicles of pig farming companies**
 On January 30, the General Office of the Ministry of Agriculture and
 Rural Affairs, the General Office of the Ministry of Transport, and
 the General Office of the Ministry of Public Security have issued the
-*Urgent Notice on Ensuring the Normal Circulation of \"shopping basket
-program\" Products and Agricultural Production Materials*, which
+*Urgent Notice on Ensuring the Normal Circulation of \"Shopping Basket
+Program\" Products and Agricultural Production Materials*, which
 prohibits illegal acts such as unauthorized checkpoints as well as
 road and traffic blocking, so as to maintain the normal circulation of
 \"shopping basket program\" products and agricultural production
